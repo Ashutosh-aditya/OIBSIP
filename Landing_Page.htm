@@ -3,9 +3,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Beautiful Landing Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        /* Custom CSS Styles */
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .hero {
+            background-image: url('your-background-image.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+            text-align: center;
+            padding: 100px 0;
+        }
+        .hero h1 {
+            font-size: 3rem;
+        }
+        .hero p {
+            font-size: 1.5rem;
+        }
+        .features {
+            padding: 50px 0;
+            background-color: #fff;
+        }
+        .feature {
+            text-align: center;
+            padding: 20px;
+            transition: transform 0.2s;
+        }
+        .feature i {
+            font-size: 2rem;
+            color: #007bff;
+        }
+        .feature h2 {
+            font-size: 1.5rem;
+            margin-top: 10px;
+        }
+        /* Add a hover effect */
+        .feature:hover {
+            transform: scale(1.05);
+        }
+    </style>
 </head>
 <body>
-    
+    <section class="hero">
+        <div class="container">
+            <h1>Welcome to Our Beautiful Landing Page</h1>
+            <p>Discover Amazing Features</p>
+            <a href="#features" class="btn btn-primary btn-lg">Learn More</a>
+        </div>
+    </section>
+
+    <section id="features" class="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 feature">
+                    <i class="fa fa-heart"></i>
+                    <h2>Beautiful Design</h2>
+                    <p>We create stunning designs that capture your audience's attention.</p>
+                </div>
+                <div class="col-lg-4 feature">
+                    <i class="fa fa-cogs"></i>
+                    <h2>Easy to Customize</h2>
+                    <p>Our templates are easy to customize to suit your needs.</p>
+                </div>
+                <div class="col-lg-4 feature">
+                    <i class="fa fa-mobile"></i>
+                    <h2>Responsive</h2>
+                    <p>Our pages look great on all devices, from desktops to mobile phones.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Add more sections as needed -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
