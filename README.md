@@ -5,9 +5,9 @@ Greetings to the OIBSIP (Online Internship Projects) repository! Within this rep
 ## Table of Contents
 
 - [Level 1 Projects](#level-1-projects)
-  - [Task 1 ](#Landing-Page)
-  - [Task 2 ](#Portfolio)
-  - [Task 3 ](#Temperature-Converter-Website)
+  - [Task 1 Landing Page](#Landing-Page)
+  - [Task 2 Portfolio](#Portfolio)
+  - [Task 3 Temperature Converter Website](#Temperature-Converter-Website)
 
 ## Level 1 Projects
 
