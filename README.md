@@ -1,0 +1,38 @@
+# Oasis Info Byte Summer Internship - Web Developer Internship Projects
+
+Greetings to the OIBSIP (Online Internship Projects) repository! Within this repository, you will discover the assignments I completed during my web developer internship at Oasis Info Byte. The projects were distributed across three distinct levels, each containing its own set of tasks to accomplish.
+
+## Table of Contents
+
+- [Level 1 Projects](#level-1-projects)
+  - [Task 1 ](#Landing-Page)
+  - [Task 2 ](#task-2-project)
+  - [Task 3 ](#task-3-project)
+
+## Level 1 Projects
+
+Level 1 comprises three projects that fostered the development of a foundational understanding of web development. These projects centered around front-end development, encompassing HTML, CSS, and JavaScript.
+## Task 1 
+### Landing Page:
+   - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
+   - Technologies Employed: HTML, CSS, JavaScript
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Visuals:
+     
+## Task 2 - **Portfolio**:
+   - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
+   - Technologies Employed: HTML, CSS, JavaScript
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Visuals:
+     
+## Task 3 - **Temperature Convertor Website**:
+   - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
+   - Technologies Employed: HTML, CSS, JavaScript
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Visuals:
+     
+## Conclusion
+
+These projects furnished invaluable hands-on experience and contributed to the advancement of my skills as a web developer. Each project presented distinctive challenges and opportunities for personal and professional growth. I am appreciative of the learning experiences and the privilege to contribute to real-world web development initiatives.
+
+For further details on each project, kindly consult the respective project repositories. Should you have any questions or feedback, please don't hesitate to reach out!
