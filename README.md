@@ -16,21 +16,21 @@ Level 1 comprises three projects that fostered the development of a foundational
 ### Landing Page:
    - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
    - Technologies Employed: HTML, CSS, JavaScript
-   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Ashutosh-aditya/OIBSIP/tree/main/Lvl_1_Task_1_Landing_Page)
    - Visuals:
      
 ## Task 2 
 ### Portfolio:
    - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
    - Technologies Employed: HTML, CSS, JavaScript
-   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Ashutosh-aditya/OIBSIP/tree/main/Lvl_1_Task_2_Portfolio)
    - Visuals:
 
 ## Task 3
 ### Temperature Converter Website:
    - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
    - Technologies Employed: HTML, CSS, JavaScript
-   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
+   - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Ashutosh-aditya/OIBSIP/tree/main/Lvl_1_Task_3_Temp_Converter)
    - Visuals:
      
 ## Conclusion
