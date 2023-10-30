@@ -1,4 +1,4 @@
-# Oasis Info Byte Summer Internship - Web Developer Internship Projects
+# Oasis Info Byte Internship - Web Developer Internship Projects
 
 Greetings to the OIBSIP (Online Internship Projects) repository! Within this repository, you will discover the assignments I completed during my web developer internship at Oasis Info Byte. The projects were distributed across three distinct levels, each containing its own set of tasks to accomplish.
 
@@ -43,6 +43,8 @@ Level 1 comprises three projects that fostered the development of a foundational
    - Technologies Employed: HTML, CSS, JavaScript
    - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Ashutosh-aditya/OIBSIP/tree/main/Lvl_1_Task_3_Temp_Converter)
    - Visuals:
+     ![temperature](https://github.com/Ashutosh-aditya/OIBSIP/assets/78680582/9f56f0de-b5d0-4124-8377-81788e61be96)
+
      
 ## Conclusion
 
