@@ -6,8 +6,8 @@ Greetings to the OIBSIP (Online Internship Projects) repository! Within this rep
 
 - [Level 1 Projects](#level-1-projects)
   - [Task 1 ](#Landing-Page)
-  - [Task 2 ](#task-2-project)
-  - [Task 3 ](#task-3-project)
+  - [Task 2 ](#Portfolio)
+  - [Task 3 ](#Temperature-Converter-Website)
 
 ## Level 1 Projects
 
@@ -19,13 +19,15 @@ Level 1 comprises three projects that fostered the development of a foundational
    - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
    - Visuals:
      
-## Task 2 - **Portfolio**:
+## Task 2 
+### Portfolio:
    - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
    - Technologies Employed: HTML, CSS, JavaScript
    - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
    - Visuals:
-     
-## Task 3 - **Temperature Convertor Website**:
+
+## Task 3
+### Temperature Converter Website:
    - Summary: A landing page, crafted using HTML, CSS, and JavaScript.
    - Technologies Employed: HTML, CSS, JavaScript
    - Repository: The project's GitHub repository can be found here: [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page)
