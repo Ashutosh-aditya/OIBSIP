@@ -1,6 +1,6 @@
 # Oasis Info Byte Internship - Web Developer Internship Projects
 
-Greetings to the OIBSIP (Online Internship Projects) repository! Within this repository, you will discover the assignments I completed during my web developer internship at Oasis Info Byte. The projects were distributed across three distinct levels, each containing its own set of tasks to accomplish.
+Greetings and welcome to my OIBSIP (Online Internship Projects) repository! Within this repository, you will discover the assignments I completed during my web developer internship at Oasis Info Byte. The projects were distributed across three distinct levels, each containing its own set of tasks to accomplish.
 
 ## Table of Contents
 
